@@ -14,7 +14,7 @@ const AddProducts = () => {
       weight: data.weight,
       imageURL: imageURL,
     };
-    const url = `http://localhost:5000/addProduct`;
+    const url = `https://quiet-scrubland-05398.herokuapp.com/addProduct`;
 
     fetch(url, {
       method: "POST",

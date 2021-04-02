@@ -5,14 +5,14 @@ import "./ProductMange.css";
 const ProductMange = () => {
   const [product, setProduct] = useState([]);
   useEffect(() => {
-    fetch("http://localhost:5000/products")
+    fetch("https://quiet-scrubland-05398.herokuapp.com/products")
       .then((res) => res.json())
       .then((data) => setProduct(data));
   }, []);
 
   const deleteProduct = (_id) => {
     console.log("this id:", _id);
-    fetch(`http://localhost:5000/deleteProduct/${_id}`, {
+    fetch(`https://quiet-scrubland-05398.herokuapp.com/deleteProduct/${_id}`, {
       method: "DELETE",
     })
       .then((res) => res.json())

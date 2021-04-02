@@ -33,7 +33,7 @@ const CheckOut = () => {
 
   const handleOrder = () => {
     const newOrder = { ...loggedInUser, ...selectedDate };
-    fetch(`http://localhost:5000/addOrder/${_id}`, {
+    fetch(`https://quiet-scrubland-05398.herokuapp.com/addOrder/${_id}`, {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify(newOrder),
