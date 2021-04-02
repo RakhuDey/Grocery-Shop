@@ -25,3 +25,5 @@ https://quiet-scrubland-05398.herokuapp.com/order
 https://quiet-scrubland-05398.herokuapp.com/products
 
 # clint site deploy by firebase
+
+https://grocery-shop1.web.app/
