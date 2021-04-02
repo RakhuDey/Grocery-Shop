@@ -6,7 +6,19 @@
   height: 40vmin;
   pointer-events: none;
 }
-
+.col li {
+  display: inline;
+  margin: 10px;
+  padding: 5px;
+}
+.col li a {
+  color: indigo;
+}
+.col h1 {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  color: #282c34;
+  font-weight: 400;
+}
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
