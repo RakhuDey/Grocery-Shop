@@ -1,29 +1,35 @@
-### This is my react client site
-hello
-# installs npm -
+## Web site description
 
-npm install express cors body-parser axios mongodb bootstrap material ui
+    This is an online grocery shop website. Anyone can be to visit this site. 
+    U can see private component not access this site without login.
+    And u can order any product by date. Any person can be to buy any grocery product in the shop.
 
-# and also this site deployed and autheicaltion google
+## Using tools
 
-server site is mongodb and store product and order this place
+    VSCode
 
-# project Description:
+## Using Languages
 
-# products are showed on the home page from database. For that, first we have to put data on database.
+    React, javaScript, HTML, CSS
+    
+## Using FrameWork
+  
+  Bootstrap, Material-Ui, React-Roter
 
-# Routes are private without home page. So you have to log in. And for log in system I used Google Sign In method with firebase.
+## BackEnd Database
+  
+  MongoDB
 
-# deploy server site
+## Contract with me
+    Facebook: https://www.facebook.com/rahul.rakhu69
+    LinkedIn: https://www.linkedin.com/in/rakhu-dey-678507148/
 
-# try to loader on index.htlm file and index.css file but nerver work it
-
-# server site deploy bt heroku
+### Server site deploy bt heroku
 
 https://quiet-scrubland-05398.herokuapp.com/
 https://quiet-scrubland-05398.herokuapp.com/order
 https://quiet-scrubland-05398.herokuapp.com/products
 
-# clint site deploy by firebase
+### Client site deploy by firebase
 
 https://grocery-shop1.web.app/
