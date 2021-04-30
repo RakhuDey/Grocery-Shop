@@ -1,7 +1,7 @@
 ## Web site description
 
-    This is an online grocery shop website. Anyone can be to visit this site. 
-    U can see private component not access this site without login.
+    This is an online grocery shop website. Anyone can be to visit this site. <br/>
+    U can see private component not access this site without login. <br/>
     And u can order any product by date. Any person can be to buy any grocery product in the shop.
 
 ## Using tools
@@ -21,8 +21,10 @@
   MongoDB
 
 ## Contract with me
-    Facebook: <Link> https://www.facebook.com/rahul.rakhu69 <Link>
-    LinkedIn: <Link> https://www.linkedin.com/in/rakhu-dey-678507148/ <Link>
+Email: rakhu_dey@yahoo.com <br/>
+GitHub: https://github.com/RakhuDey <br/> 
+Facebook: https://www.facebook.com/rahul.rakhu69 <br/>
+LinkedIn: https://www.linkedin.com/in/rakhu-dey-678507148/
 
 ### Server site deploy bt heroku
 
